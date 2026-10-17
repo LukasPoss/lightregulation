@@ -1,0 +1,12 @@
+Die Steuerung besteht aus einem ESP32 C3 super mini als Herzstück.
+
+Folgende Bauteile werden benötigt um die Platine selbst nachbauen zu können:
+
+1x ESP32 C3 Super mini
+1x Klinkenbuchse für die Stromversogung
+1x 4-Pin Stecker für den VEML Sensor
+1x 3-Pin Stecker für die Neopixel Leds
+1x 100µF Elektrolyth Kondensator
+1x 470Ohm Widerstand
+1x 60mm x 40mm Platine zum selber löten
+1x Kühlkörper für den ESP32
